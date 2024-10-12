@@ -13,7 +13,7 @@ app.use(cors());
 
 mongoose
   .connect(
-    "mongodb+srv://mayurishamal24:fJsXMHTsQhF9I3je@mayuri.rpxafnj.mongodb.net/Mayuri",
+    "mongodb+srv://mayurishamal24:<pass>@mayuri.rpxafnj.mongodb.net/Mayuri",
     {
       //insert your db id
       useNewUrlParser: true,
